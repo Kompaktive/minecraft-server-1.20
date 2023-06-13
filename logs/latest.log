@@ -1,0 +1,167 @@
+[21:02:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:02:46] [ServerMain/INFO]: Loaded 7 recipes
+[21:02:46] [ServerMain/INFO]: Loaded 1271 advancements
+[21:02:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:02:47] [Server thread/INFO]: Loading properties
+[21:02:47] [Server thread/INFO]: Default game type: SURVIVAL
+[21:02:47] [Server thread/INFO]: Generating keypair
+[21:02:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:02:47] [Server thread/INFO]: Using default channel type
+[21:02:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:02:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:02:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:02:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:02:47] [Server thread/INFO]: Preparing level "world"
+[21:02:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:02:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:02:52] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[21:02:53] [Worker-Main-6/INFO]: Preparing spawn area: 44%
+[21:02:53] [Server thread/INFO]: Time elapsed: 5436 ms
+[21:02:53] [Server thread/INFO]: Done (6.266s)! For help, type "help"
+[21:04:14] [Server thread/INFO]: Pendr_a_gon[/127.146.21.0:50967] logged in with entity id 177 at (-35.225099761064406, 138.0, -12.529383978198561)
+[21:04:14] [Server thread/INFO]: Pendr_a_gon joined the game
+[21:04:27] [Server thread/INFO]: Kompaktive[/127.0.0.1:50977] logged in with entity id 192 at (548.9009526396023, 62.073264324665075, 451.9615629258377)
+[21:04:27] [Server thread/INFO]: Kompaktive joined the game
+[21:05:14] [Server thread/INFO]: MEMEnto[/127.26.247.8:50990] logged in with entity id 657 at (-70.4384672853606, 160.0, -10.065108588214457)
+[21:05:14] [Server thread/INFO]: MEMEnto joined the game
+[21:06:39] [Server thread/INFO]: Deimonchan[/127.2.86.164:51005] logged in with entity id 1293 at (-6.114584062427988, 126.0, -42.472392792219736)
+[21:06:39] [Server thread/INFO]: Deimonchan joined the game
+[21:10:32] [Server thread/INFO]: MEMEnto fell from a high place
+[21:20:00] [Server thread/INFO]: Pendr_a_gon was slain by Spider
+[21:21:45] [Server thread/INFO]: Kompaktive lost connection: Disconnected
+[21:21:45] [Server thread/INFO]: Kompaktive left the game
+[21:22:18] [Server thread/INFO]: Deimonchan fell from a high place
+[21:22:58] [Server thread/INFO]: Kompaktive[/127.0.0.1:51349] logged in with entity id 7409 at (698.5899123140371, 61.830178987556614, 902.669170244796)
+[21:22:58] [Server thread/INFO]: Kompaktive joined the game
+[21:23:15] [Server thread/INFO]: RoVlum[/127.153.108.72:51356] logged in with entity id 7655 at (14.313984812970878, 64.0, -87.04598988548764)
+[21:23:15] [Server thread/INFO]: RoVlum joined the game
+[21:26:36] [Server thread/INFO]: MEMEnto has made the advancement [Take Aim]
+[21:26:37] [Server thread/INFO]: MEMEnto was shot by Skeleton
+[21:27:03] [Server thread/INFO]: [Not Secure] <RoVlum> aku dimana
+[21:27:11] [Server thread/INFO]: [Not Secure] <Pendr_a_gon> kamu dimana
+[21:27:16] [Server thread/INFO]: [Not Secure] <Kompaktive> dengan siapa
+[21:27:19] [Server thread/INFO]: [Not Secure] <RoVlum> aku dimanaa
+[21:28:03] [Server thread/INFO]: MEMEnto was shot by Skeleton
+[21:30:22] [Server thread/INFO]: [Not Secure] <Pendr_a_gon> daddy vc
+[21:30:26] [Server thread/INFO]: [Not Secure] <MEMEnto> lang gblk vc
+[21:30:34] [Server thread/INFO]: [Not Secure] <RoVlum> calm down, honey. aing gerah su
+[21:30:40] [Server thread/INFO]: [Not Secure] <RoVlum> nanti hengset nya basah
+[21:30:47] [Server thread/INFO]: [Not Secure] <RoVlum> bugil gw ni gila panas bet
+[21:31:05] [Server thread/INFO]: [Not Secure] <Pendr_a_gon> pic or hoax
+[21:31:13] [Server thread/INFO]: [Not Secure] <RoVlum> O.O
+[21:31:49] [Server thread/INFO]: [Not Secure] <RoVlum> kasurku hilang btw
+[21:32:03] [Server thread/INFO]: [Not Secure] <RoVlum> itemku hilang semua btw
+[21:32:09] [Server thread/INFO]: [Not Secure] <Kompaktive> tf?
+[21:32:23] [Server thread/INFO]: [Not Secure] <RoVlum> kan kemarin ada pembunuhan di laut
+[21:34:58] [Server thread/INFO]: MEMEnto has made the advancement [Isn't It Iron Pick]
+[21:36:14] [Server thread/INFO]: Deimonchan was slain by Zombie
+[21:37:22] [Server thread/INFO]: Deimonchan has made the advancement [Monster Hunter]
+[21:38:50] [Server thread/INFO]: MEMEnto has made the advancement [Suit Up]
+[21:39:11] [Server thread/WARN]: Boat with Chest (vehicle of Kompaktive) moved wrongly! 0.26513671875
+[21:42:55] [Server thread/INFO]: MEMEnto lost connection: Disconnected
+[21:42:55] [Server thread/INFO]: MEMEnto left the game
+[21:43:36] [Server thread/INFO]: Pendr_a_gon was slain by Cave Spider
+[21:45:30] [Server thread/INFO]: Pendr_a_gon was blown up by Creeper
+[21:52:15] [Server thread/INFO]: Pendr_a_gon has made the advancement [Suit Up]
+[21:53:51] [Server thread/WARN]: RoVlum moved too quickly! 0.06117947851090211,-10.49876805418269,-0.07754784974380158
+[21:54:18] [Server thread/INFO]: Deimonchan was killed trying to hurt Kompaktive
+[21:54:43] [Server thread/INFO]: MEMEnto[/127.26.247.8:51522] logged in with entity id 18221 at (-5.038051077635392, 134.0, -18.933750863057867)
+[21:54:43] [Server thread/INFO]: MEMEnto joined the game
+[21:55:43] [Server thread/INFO]: Pendr_a_gon has made the advancement [Not Today, Thank You]
+[21:56:16] [Server thread/INFO]: Pendr_a_gon was blown up by Creeper
+[21:57:19] [Server thread/INFO]: Pendr_a_gon has made the advancement [Take Aim]
+[21:57:57] [Server thread/INFO]: Pendr_a_gon was blown up by Creeper
+[21:59:03] [Server thread/WARN]: Pendr_a_gon moved too quickly! 9.826306758989459,1.0,2.7841323580633928
+[22:01:00] [Server thread/INFO]: MEMEnto was slain by Cave Spider
+[22:02:54] [Server thread/INFO]: Deimonchan was slain by Spider
+[22:03:16] [Server thread/INFO]: Kompaktive has made the advancement [Fishy Business]
+[22:03:53] [Server thread/INFO]: RoVlum has made the advancement [Suit Up]
+[22:06:01] [Server thread/INFO]: RoVlum has made the advancement [Crafting a New Look]
+[22:06:50] [Server thread/INFO]: Pendr_a_gon was shot by Pendr_a_gon
+[22:07:12] [Server thread/INFO]: Kompaktive has made the advancement [Crafting a New Look]
+[22:12:10] [Server thread/WARN]: MEMEnto moved too quickly! 9.029759164143403,1.0,4.756848745074052
+[22:13:24] [Server thread/INFO]: Deimonchan was blown up by Creeper
+[22:16:18] [Server thread/INFO]: MEMEnto has made the advancement [Sneak 100]
+[22:16:28] [Server thread/INFO]: Deimonchan was shot by Skeleton
+[22:16:49] [Server thread/INFO]: MEMEnto was slain by Enderman
+[22:17:27] [Server thread/INFO]: Pendr_a_gon has made the advancement [Diamonds!]
+[22:17:59] [Server thread/INFO]: MEMEnto was shot by Skeleton
+[22:19:25] [Server thread/WARN]: RoVlum moved too quickly! -8.815651721162535,-1.8245767040479137,4.698360061287534
+[22:20:08] [Server thread/WARN]: MEMEnto moved too quickly! 1.703505790016564,2.252203340253722,9.737632143313192
+[22:21:13] [Server thread/INFO]: RoVlum has made the advancement [Not Today, Thank You]
+[22:22:05] [Server thread/INFO]: RoVlum lost connection: Timed out
+[22:22:05] [Server thread/INFO]: RoVlum left the game
+[22:22:05] [Server thread/INFO]: Pendr_a_gon lost connection: Timed out
+[22:22:05] [Server thread/INFO]: Pendr_a_gon left the game
+[22:22:07] [Server thread/INFO]: Deimonchan lost connection: Disconnected
+[22:22:07] [Server thread/INFO]: Deimonchan left the game
+[22:22:07] [Server thread/INFO]: MEMEnto lost connection: Disconnected
+[22:22:07] [Server thread/INFO]: MEMEnto left the game
+[22:22:11] [Server thread/INFO]: RoVlum[/127.153.108.72:51585] logged in with entity id 22923 at (0.7705595460373895, 16.0, -11.481819130962405)
+[22:22:11] [Server thread/INFO]: RoVlum joined the game
+[22:22:12] [Server thread/INFO]: MEMEnto[/127.26.247.8:51588] logged in with entity id 22924 at (3.349647228424996, 62.997353185016756, -24.625721677816276)
+[22:22:12] [Server thread/INFO]: MEMEnto joined the game
+[22:22:26] [Server thread/INFO]: Pendr_a_gon[/127.146.21.0:51594] logged in with entity id 22949 at (-78.46862835354075, -1.0, 71.30000001192093)
+[22:22:26] [Server thread/INFO]: Pendr_a_gon joined the game
+[22:22:31] [Server thread/INFO]: Deimonchan[/127.2.86.164:51596] logged in with entity id 22997 at (11.530985345007517, 63.0, -22.860530950600594)
+[22:22:31] [Server thread/INFO]: Deimonchan joined the game
+[22:22:59] [Server thread/INFO]: RoVlum was slain by Slime
+[22:23:12] [Server thread/INFO]: MEMEnto lost connection: Timed out
+[22:23:12] [Server thread/INFO]: MEMEnto left the game
+[22:23:17] [Server thread/INFO]: MEMEnto[/127.26.247.8:51626] logged in with entity id 23127 at (30.303430844571253, 61.03499999910593, -17.719474906888966)
+[22:23:17] [Server thread/INFO]: MEMEnto joined the game
+[22:23:23] [Server thread/INFO]: Deimonchan has made the advancement [Suit Up]
+[22:23:43] [Server thread/WARN]: RoVlum moved too quickly! -0.8563919409428964,-10.556194264551962,-0.15700872893287254
+[22:23:49] [Server thread/INFO]: Deimonchan went up in flames
+[22:25:35] [Server thread/WARN]: Deimonchan moved too quickly! 0.014574730443570605,-10.60935627455586,0.6705590919135176
+[22:25:37] [Server thread/INFO]: Kompaktive has made the advancement [Glow and Behold!]
+[22:28:23] [Server thread/INFO]: Pendr_a_gon has made the advancement [Cover Me with Diamonds]
+[22:29:01] [Server thread/INFO]: Deimonchan lost connection: Timed out
+[22:29:01] [Server thread/INFO]: Deimonchan left the game
+[22:29:15] [Server thread/INFO]: Deimonchan[/127.2.86.164:51719] logged in with entity id 24697 at (2.699999988079071, 11.0, -14.518436696645042)
+[22:29:15] [Server thread/INFO]: Deimonchan joined the game
+[22:36:44] [Server thread/INFO]: Deimonchan fell from a high place
+[22:39:04] [Server thread/INFO]: MEMEnto lost connection: Timed out
+[22:39:04] [Server thread/INFO]: MEMEnto left the game
+[22:39:31] [Server thread/INFO]: Pendr_a_gon has made the advancement [Hot Stuff]
+[22:40:24] [Server thread/INFO]: Pendr_a_gon has made the advancement [Ice Bucket Challenge]
+[22:41:10] [Server thread/INFO]: [Not Secure] <RoVlum> 22 67 -21
+[22:43:16] [Server thread/INFO]: RoVlum has made the advancement [The Cutest Predator]
+[22:43:20] [Server thread/INFO]: MEMEnto[/127.45.10.185:51760] logged in with entity id 28464 at (-53.70100654258027, 152.0, -20.650362666561822)
+[22:43:20] [Server thread/INFO]: MEMEnto joined the game
+[22:43:48] [Server thread/INFO]: MEMEnto lost connection: Disconnected
+[22:43:48] [Server thread/INFO]: MEMEnto left the game
+[22:43:58] [Server thread/INFO]: MEMEnto[/127.35.65.204:51762] logged in with entity id 28618 at (-53.70100654258027, 152.0, -20.650362666561822)
+[22:43:58] [Server thread/INFO]: MEMEnto joined the game
+[22:44:53] [Server thread/INFO]: Pendr_a_gon has made the advancement [We Need to Go Deeper]
+[22:52:20] [Server thread/INFO]: Kompaktive lost connection: Disconnected
+[22:52:20] [Server thread/INFO]: Kompaktive left the game
+[22:55:24] [Server thread/INFO]: Deimonchan was slain by RoVlum
+[22:56:52] [Server thread/INFO]: RoVlum lost connection: Disconnected
+[22:56:52] [Server thread/INFO]: RoVlum left the game
+[22:59:08] [Server thread/INFO]: MEMEnto lost connection: Disconnected
+[22:59:08] [Server thread/INFO]: MEMEnto left the game
+[22:59:10] [Server thread/INFO]: Pendr_a_gon lost connection: Disconnected
+[22:59:10] [Server thread/INFO]: Pendr_a_gon left the game
+[22:59:30] [Server thread/INFO]: Deimonchan lost connection: Disconnected
+[22:59:30] [Server thread/INFO]: Deimonchan left the game
+[23:09:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 208655ms or 4173 ticks behind
+[23:09:56] [Server thread/INFO]: Stopping the server
+[23:09:56] [Server thread/INFO]: Stopping server
+[23:09:56] [Server thread/INFO]: Saving players
+[23:09:56] [Server thread/INFO]: Saving worlds
+[23:09:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:09:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:09:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:09:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:09:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:09:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:09:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

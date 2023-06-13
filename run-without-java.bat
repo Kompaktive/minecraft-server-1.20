@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Minecraft Launcher\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\java.exe" -Xmx4096M -jar server.jar nogui
